@@ -12,8 +12,8 @@ const { postRetailer,getStatus,updateretailerstatus,getRetailer,updateRetailer,g
 // aws config
 let S3 = new AWS.S3({
     credentials: {
-      accessKeyId: "AKIAQAX7DH5LUBXOOFW3",
-      secretAccessKey: "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",
+      accessKeyId: "",
+      secretAccessKey: "",
     },
     region: "ap-south-1",
   });
